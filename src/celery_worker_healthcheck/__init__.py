@@ -7,7 +7,7 @@ import threading
 import celery.signals
 
 
-__version__ = '1.0.0.dev0'
+__version__ = '1.0.0'
 
 
 def start(sender, *args, **kw):
